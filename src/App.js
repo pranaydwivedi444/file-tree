@@ -1,5 +1,7 @@
+import FolderStructure from "./components/FolderStructure/Folder_Structure.component";
+
 function App() {
-  return "hi";
+  return <FolderStructure />;
 }
 
 export default App;
